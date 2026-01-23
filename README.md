@@ -1,4 +1,5 @@
 📄 Document Intelligence
+
 Minimal PDF Question Answering System
 
 Document Intelligence is a clean, local-first PDF question answering system that allows users to upload documents, index their contents, and ask natural language questions to retrieve accurate, source-backed answers.
