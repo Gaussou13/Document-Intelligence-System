@@ -87,26 +87,6 @@ document-intelligence/
 ├── requirements.txt
 └── README.md
 
-🚀 Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/document-intelligence.git
-cd document-intelligence
-
-2️⃣ Create Virtual Environment
-python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
-
-3️⃣ Install Dependencies
-pip install -r requirements.txt
-
-▶️ Run the Application
-streamlit run app.py
-
-
-Open your browser and navigate to:
-
-http://localhost:8501
-
 📖 How It Works
 
 Upload one or more PDF documents
